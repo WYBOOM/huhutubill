@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/chart.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/ehcache-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/liquidlnf.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/JAVA/lib/swingx-core-1.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
